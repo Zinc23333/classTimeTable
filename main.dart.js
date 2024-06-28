@@ -37792,7 +37792,7 @@ return A.O($async$aj8,r)},
 SQ(a){var s=0,r=A.P(t.Cr),q,p
 var $async$SQ=A.Q(function(b,c){if(b===1)return A.M(c,r)
 while(true)switch(s){case 0:s=3
-return A.W(A.b7W(A.iz("http://47.96.251.216:23367/tt/download/"+a),null),$async$SQ)
+return A.W(A.b7W(A.iz("https://qaq.zinc233.top:23367/tt/upload/"+a),null),$async$SQ)
 case 3:p=c
 q=A.aXl(a,A.b7n(A.b62(p.e).c.a.h(0,"charset")).e_(0,p.w))
 s=1
