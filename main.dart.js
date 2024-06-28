@@ -37764,7 +37764,7 @@ var $async$aj8=A.Q(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:p=4
 n=B.ck.Bj(a.mI(),null)
 s=7
-return A.W(A.b7W(A.iz("http://47.96.251.216:23367/tt/upload/"+a.b),n),$async$aj8)
+return A.W(A.b7W(A.iz("https://qaq.zinc233.top:23367/tt/upload/"+a.b),n),$async$aj8)
 case 7:m=c
 k=m
 if(B.e.q(A.b7n(A.b62(k.e).c.a.h(0,"charset")).e_(0,k.w),"OK")){q=!0
